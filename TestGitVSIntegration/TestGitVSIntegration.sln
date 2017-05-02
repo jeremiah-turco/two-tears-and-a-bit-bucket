@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGitVSIntegration", "TestGitVSIntegration\TestGitVSIntegration.csproj", "{D7893CBB-FBF2-40FA-AA36-D2713E174CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGitVSIntegration.Tests", "TestGitVSIntegration.Tests\TestGitVSIntegration.Tests.csproj", "{06057962-1489-496A-A3D9-5AB721E68552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7893CBB-FBF2-40FA-AA36-D2713E174CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7893CBB-FBF2-40FA-AA36-D2713E174CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7893CBB-FBF2-40FA-AA36-D2713E174CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7893CBB-FBF2-40FA-AA36-D2713E174CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06057962-1489-496A-A3D9-5AB721E68552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06057962-1489-496A-A3D9-5AB721E68552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06057962-1489-496A-A3D9-5AB721E68552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06057962-1489-496A-A3D9-5AB721E68552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
